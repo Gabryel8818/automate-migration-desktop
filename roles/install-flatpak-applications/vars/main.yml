@@ -1,0 +1,9 @@
+packages:
+  - "com.spotify.Client"
+  - "com.github.phase1geo.minder"
+  - "org.flameshot.Flameshot"
+  - "com.discordapp.Discord"
+  - "org.telegram.desktop"
+  - "org.chromium.Chromium"
+  - "org.qbittorrent.qBittorrent"
+  - "com.getferdi.Ferdi"

@@ -1,0 +1,9 @@
+---
+
+- hosts: locale
+  become: yes
+  roles:
+    - install-depends
+      #- install-flatpak-applications
+      #- install-iac-tools
+
