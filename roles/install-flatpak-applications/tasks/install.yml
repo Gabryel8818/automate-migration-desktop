@@ -1,4 +1,4 @@
 ---
 - name: "Flatpak install packages"
   shell:
-    cmd: "flatpak install {{ package }} -y""
+    cmd: "flatpak install {{ packages }} -y"
