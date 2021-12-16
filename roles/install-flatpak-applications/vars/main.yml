@@ -7,3 +7,12 @@ packages:
   - "org.chromium.Chromium"
   - "org.qbittorrent.qBittorrent"
   - "com.getferdi.Ferdi"
+  - "nz.mega.MEGAsync"
+  - "md.obsidian.Obsidian"
+  - "com.nordpass.NordPass"
+  - "com.getmailspring.Mailspring"
+  - "org.gabmus.hydrapaper"
+  - "com.visualstudio.code"
+  - "rest.insomnia.Insomnia"
+  - "org.freedesktop.Platform.ffmpeg-full"
+  
